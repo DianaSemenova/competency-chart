@@ -1,4 +1,6 @@
-export const data = [
+import { IData } from "../types/types";
+
+export const data: IData[] = [
   {
     name: "Финансовый аналитик",
     mainSkills: ["Excel", "SQL", "VBA", "1С"],
