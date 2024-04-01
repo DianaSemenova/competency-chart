@@ -18,16 +18,9 @@ export const data: IData[] = [
     ],
   },
   {
-    name: "Продуктовый дизайнер",
-    mainSkills: [
-      "Figma",
-      "Sketch",
-      "Illustrator",
-      "Photoshop",
-      "Principle",
-      "Tilda",
-    ],
-    otherSkills: ["Shopify", "Protopie", "Cinema 4D"],
+    name: "Руководитель финансового департамента компании",
+    mainSkills: ["Sketch", "Figma"],
+    otherSkills: ["Shopify", "HQL"],
   },
   {
     name: "Менеджер проекта",
@@ -46,11 +39,6 @@ export const data: IData[] = [
     name: "Финансовый менеджер",
     mainSkills: ["1C", "Excel", "Power BI"],
     otherSkills: ["BPMN"],
-  },
-  {
-    name: "Руководитель финансового департамента компании",
-    mainSkills: ["Sketch", "Figma"],
-    otherSkills: ["Shopify", "HQL"],
   },
 
   {
@@ -71,19 +59,6 @@ export const data: IData[] = [
     mainSkills: ["Visio"],
     otherSkills: ["Python"],
   },
-  {
-    name: "Менеджер по маркетингу",
-    mainSkills: [
-      "Google Analytics",
-      "Яндекс.Метрика",
-      "Google Ads",
-      "Ahrefs",
-      "Главред",
-      "My Target",
-    ],
-    otherSkills: ["Tilda", "Photoshop", "Xenu", "Python"],
-  },
-
   {
     name: "Менеджер по цифровой трансформации",
     mainSkills: [
